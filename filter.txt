@@ -198,6 +198,10 @@ beytoote.com###innerbottom > .grid-v.width100.grid-box:nth-of-type(1)
 beytoote.com###innerbottom > .grid-v.width100.grid-box:nth-of-type(2) > .deepest.module
 beytoote.com###innerbottom > .grid-v.width100.grid-box:nth-of-type(4)
 beytoote.com##.ads-btn1
+beytoote.com##.c_place
+beytoote.com##.d_place
+beytoote.com##c-ads-banner
+beytoote.com##d-ads-banner
 beytoote.com##.adsnewbox
 beytoote.com##.bannergroupstyle-body
 beytoote.com##.bfakh
