@@ -635,10 +635,13 @@ skinak.ir###dis_ads > .dadsd
 skinak.ir##.bg > center > .dadsd:nth-of-type(2)
 skinak.ir##header > .ads
 soft98.ir###a1d2x-header
+soft98.ir###a6d2x-header
 soft98.ir###kaprila_soft98_ir_related
 soft98.ir###sidebar .card:has(.a1d2x-image)
 soft98.ir###sidebar .card:has(.a1d2x-sidebar)
 soft98.ir###sidebar .card:has(.a1d2x)
+soft98.ir###sidebar .card:has(.a6d2x)
+soft98.ir###sidebar .card:has(.a6d2x-image)
 soft98.ir##.a1d2x
 soft98.ir##.a6d2x
 soft98.ir##.a6d2x-link
@@ -646,7 +649,6 @@ soft98.ir##.a6d2x
 soft98.ir##.a6d2x-min
 soft98.ir##.a6d2x__inner
 soft98.ir##.a6d2x-image
-soft98.ir##a6d2x-image
 soft98.ir##.a6d2x-header
 soft98.ir##.a1d2x-download
 soft98.ir##.a1d2x-image
