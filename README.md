@@ -23,3 +23,6 @@ If you spot any issues in the list, please [open a ticket](https://github.com/fa
 Please feel free to fork and send in your pull requests if you want to contribute to the list.
 
 
+## Creadit
+Goes to https://github.com/farrokhi/adblock-iran
+Edited and update by AMSH4CK3R
