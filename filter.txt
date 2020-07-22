@@ -643,6 +643,9 @@ soft98.ir##.a1d2x
 soft98.ir##.a6d2x
 soft98.ir##.a6d2x-link
 soft98.ir##.a6d2x
+soft98.ir##.a6d2x-min
+soft98.ir##.a6d2x__inner
+soft98.ir##.a6d2x-image
 soft98.ir##.a6d2x-header
 soft98.ir##.a1d2x-download
 soft98.ir##.a1d2x-image
