@@ -26,4 +26,4 @@ Please feel free to fork and send in your pull requests if you want to contribut
 ## Creadit
 Goes to https://github.com/farrokhi/adblock-iran
 
-Edited and update by AMSH4CK3R
+Edited and update by **AMSH4CK3R**
