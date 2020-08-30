@@ -1020,7 +1020,7 @@ zoomtech.ir###text-3
 ||kaprila.com^$third-
 ||cloudirs.cf^
 ||beta.kaprila.com^
-||||app.najva.com^
+||app.najva.com^
 ||ketabesabz.com/images/banner/
 ||ketabnak.com/images/*.gif
 ||khabarfarsi.com/sites/default/files/upload_banner/
