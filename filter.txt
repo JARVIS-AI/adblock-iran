@@ -3,7 +3,7 @@
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
 ! Expires:   X days
-! Version:   212
+! Version:   2.1.3
 ! Download:  https://github.com/JARVIS-AI/adblock-iran
 ! Homepage:  https://github.com/JARVIS-AI/adblock-iran
 ! Support:   https://github.com/JARVIS-AI/adblock-iran/issues 
