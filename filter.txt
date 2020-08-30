@@ -1,9 +1,9 @@
 [Adblock Plus 3.9.4]
-! Checksum: 1kEKcblZ5N6QWm+fh01lNQ
+! Checksum: fd4ed3cb4adc978692ee8df56c5885db
 !--------------------------------------------------------------------------
 ! Title :    Adblock-Iran
-! Expires:   4 days
-! Version:   167
+! Expires:   X days
+! Version:   212
 ! Download:  https://github.com/JARVIS-AI/adblock-iran
 ! Homepage:  https://github.com/JARVIS-AI/adblock-iran
 ! Support:   https://github.com/JARVIS-AI/adblock-iran/issues 
