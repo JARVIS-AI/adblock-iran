@@ -1,11 +1,6 @@
 # adblock-iran
 Ad blocking rules for iranian/persian websites.  Works with ![AdblockPlus](https://i.imgur.com/kPRCfhu.png) [Adblock Plus](https://adblockplus.org/) and ![uBockO](https://i.imgur.com/PSFuzKb.png) [uBlock Origin](https://github.com/gorhill/uBlock) plugins.
 
-## Notes
-
-If you spot any issues in the list, please [open a ticket](https://github.com/farrokhi/adblock-iran/issues/new).
-Please feel free to fork and send in your pull requests if you want to contribute to the list.
-
 ## Creadit
 Goes to https://github.com/farrokhi/adblock-iran
 
